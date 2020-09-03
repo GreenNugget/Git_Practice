@@ -1,4 +1,3 @@
 ## Practice Repository
 
-Hi, my name is Izé and I like muffins <3 !
-harry
+Hi, my name is Izé and I like Harry <3 !
