@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kumbh+Sans:wght@300&family=Signika:wght@400;515&display=swap');
+
+body{
+    margin:  0px;
+    padding:  30px 0px 0px 0px;
+    display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+    background-color:  #f0efeb;
+    justify-content: center;
+}
+
+.image{
+    border-radius:  20px;
+}
+
+.title {
+    font-size: 45px;
+    margin: 20px 0px 0px 0px;
+    font-family: 'Bebas Neue', cursive;
+    width: 200px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.text{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+}
